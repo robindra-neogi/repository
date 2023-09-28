@@ -6,6 +6,7 @@ A component-based rich media / scrollytelling template made with Svelte. ([View 
 The easiest way to build a project from this template is to clone it using [degit](https://github.com/Rich-Harris/degit), which just creates a local copy of the files (not a Git branch). You can also hack it live [here](https://svelte.dev/repl/58155faba1ea463eaf4d9ec6f3f95364?version=3.32.3).
 
 ## Getting started
+#
 
 If you don't have **degit**, you can install it from NPM.
 
